@@ -1,0 +1,2 @@
+# Daily Notes
+Apply modern flexbox/grid techniques instead of floats
